@@ -8,6 +8,10 @@ A self-destructing message link service built with Django.
 - Optional one-time view (auto-deletes after opening)
 - No user accounts required
 
+## Coming Soon
+
+- Messages will be encrypted at rest (password protected messages)
+
 ## How to use
 
 Will deploy soon, but in the meantime:
@@ -20,5 +24,6 @@ Will deploy soon, but in the meantime:
 
 ```
 pip install -r requirements.txt
+cd BurnerLink
 python manage.py runserver
 ```
