@@ -2,6 +2,10 @@
 
 A self-destructing message link service built with Django.
 
+## Demo
+
+https://github.com/user-attachments/assets/2a591570-2510-4105-b366-68e1d8af4e13
+
 ## Features
 - Create temporary links to secret messages
 - Set expiration time (default: 24 hours)
